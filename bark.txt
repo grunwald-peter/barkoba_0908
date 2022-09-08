@@ -1,3 +1,5 @@
 Állat?
 Nem
 Tárgy?
+Igen
+
